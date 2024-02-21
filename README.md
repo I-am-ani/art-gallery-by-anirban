@@ -30,4 +30,4 @@ To run this project locally, follow these steps:
 ## Usage
 After installing and running the project locally, you can see all the paintings done by me. Simply click on any painting and use the arrow keys to navigate through all the images. Use the zoom, fullscreen, flip, and rotate buttons to interact with the drawings. To download a drawing, click on the download button. You can share the drawing using the share button.
 
-![Image Gallery](/public/ImageGallery.png)
+![Image Gallery](/public/Image-gallery.png)
