@@ -8,7 +8,7 @@ Welcome to the Responsive Image Gallery in React.js project! In this project, we
 - [Usage](#usage)
 
 ## Demo
-A live demo of the project can be found [here](https://www.anirbankonar.in/)
+A live demo of the project can be found [here](https://i-am-ani.github.io/art-gallery-by-anirban/)
 
 ## Technologies Used
 - Vite.js: A build tool that aims to provide a faster and leaner development experience for modern web projects.
